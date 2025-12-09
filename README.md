@@ -3,4 +3,4 @@
 Me chamo Alexsandro e tenho 19 anos. Cursando Desenvolvimento de Sistemas na ETEC de Tabão da Serra
 
 ## Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mysql,express,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,mysql,express,figma,laravel)](https://skillicons.dev)
